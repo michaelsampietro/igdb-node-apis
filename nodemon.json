@@ -1,0 +1,9 @@
+{
+  "env": {
+    "PORT": "8000",
+    "IGDB_BASE_URL": "https://api.igdb.com/v4",
+    "TWITCH_CLIENT_ID": "nkt02ssz99qqc85uj37v6zyk4f28bx",
+    "TWITCH_CLIENT_SECRET": "zkp6iqni2vh31ccm06ciyxgrujsnqv",
+    "TWITCH_TOKEN_URL": "https://id.twitch.tv/oauth2/token"
+  }
+}
